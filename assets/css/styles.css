@@ -5,7 +5,34 @@ body{
 	text-align: center;
 	font-size: xx-large;
 	font-weight: lighter;
+  
 }
+
+.paraone{
+  font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  font-size: smaller;
+  line-height: 1.25;
+}
+.paratwo{
+    font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  font-size: smaller;
+  line-height: 1.25;
+}
+.parathree{
+    font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  font-size: smaller;
+  line-height: 1.25;
+}
+.parafinal {
+    font-family:'Franklin Gothic Extra Light', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  font-size: smaller;
+  line-height: 1.25;
+}
+
 input[type="text"] {
     width: 1000px;
     height: 50px;
@@ -30,3 +57,4 @@ input[type="text"] {
   0% { transform: translateY(0); }
   100% { transform: translateY(450px); } 
 }
+
