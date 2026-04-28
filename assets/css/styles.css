@@ -4,13 +4,29 @@ body{
 	font-family: 'Courier New', Courier, monospace;
 	text-align: center;
 	font-size: xx-large;
+	font-weight: lighter;
 }
 input[type="text"] {
     width: 1000px;
     height: 50px;
 	font-size: 30px; 
 }
-.div {
-	transition: transform 0.5s ease-in-out;
+
+.falling-container {
+  height: 400px;
+  overflow: hidden;
+  position: relative;
 }
 
+.falling-text {
+  position: absolute;
+  top: -50px; 
+  width: 100%;
+  text-align: center;
+  animation: fall 4s linear infinite;
+}
+
+@keyframes fall {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(450px); } 
+}
