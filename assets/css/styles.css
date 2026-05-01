@@ -7,30 +7,81 @@ body{
 	font-weight: lighter;
   
 }
+p{
+  font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+	font-size: 40px;
+  font-weight: 700;
+}
 
-.paraone{
+.para1{
   font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
   text-align: left;
-  font-size: smaller;
+  font-size: 23px;
   line-height: 1.25;
+  margin-left: .5rem;
+  margin-right: 1rem;
 }
-.paratwo{
+
+.para2{
     font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
   text-align: left;
-  font-size: smaller;
+  font-size: 23px;
   line-height: 1.25;
+  margin-left: .5rem;
+  margin-right: 1rem;
 }
-.parathree{
+
+.para3{
     font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
   text-align: left;
-  font-size: smaller;
+  font-size: 23px;
   line-height: 1.25;
+  margin-left: .5rem;
+  margin-right: 1rem;
 }
-.parafinal {
-    font-family:'Franklin Gothic Extra Light', 'Arial Narrow', Arial, sans-serif;
+.para4{
+  font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
   text-align: left;
-  font-size: smaller;
+  font-size: 23px;
   line-height: 1.25;
+  margin-left: .5rem;
+  margin-right: 1rem;
+}
+.para5{
+  font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  font-size: 23px;
+  line-height: 1.25;
+  margin-left: .5rem;
+  margin-right: 1rem;
+}
+
+.para6{
+    font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  font-size: 23px;
+  line-height: 1.25;
+  margin-left: .5rem;
+  margin-right: 1rem;
+}
+
+.para7{
+    font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  font-size: 23px;
+  line-height: 1.25;
+  margin-left: .5rem;
+  margin-right: 1rem;
+}
+
+.para8{
+    font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  font-size: 23px;
+  line-height: 1.25;
+  margin-left: .5rem;
+  margin-right: 1rem;
 }
 
 input[type="text"] {
